@@ -1,11 +1,7 @@
-<<<<<<< HEAD
- # Adding a buffer.
-=======
 # Adding a buffer.
 #
 # The buffer allows to reorder the chunks if they are not transmitted
 # in order by the network.
->>>>>>> efa5e546308d4f703e9159318cf4131f522a42c9
 
 import sounddevice as sd
 import numpy as np

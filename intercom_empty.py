@@ -1,12 +1,4 @@
 # Don't send empty bitplanes.
-#
-# The sender adds to the number of received bitplanes the number of
-# skipped (zero) bitplanes of the chunk sent.
-
-# The receiver computes the first received
-# bitplane (apart from the bitplane with the signs) and report a
-# Don't send empty bitplanes.
-#
 # The sender of the bitplanes adds, to the number of received
 # bitplanes, the number of skipped (zero) bitplanes of the chunk
 # sent. It is also considered that the signs bitplane cound be all
